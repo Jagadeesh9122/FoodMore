@@ -1,0 +1,148 @@
+.food_more_logo {
+    height: 70px;
+    width: 100px;
+}
+
+.sections {
+    color: #ffffff;
+    font-family: "Bookman";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.banner-sec {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.banner-head {
+    font-family: "Serif";
+    font-size: 60px;
+    color: white;
+    font-weight: 200;
+}
+
+.banner-caption {
+    font-family: "Times New Roman";
+    font-size: 32px;
+    color: white
+}
+
+.explore-bg {
+    background-color: #fcfffd;
+    background-size: cover;
+}
+
+.section-head {
+    color: #1a2b0d;
+    font-family: "Serif";
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.section-cont {
+    border-radius: 20px;
+}
+
+.menu-item-image {
+    border-radius: 20px;
+}
+
+.menu-name {
+    color: #611510;
+    font-family: "Sans-Serif";
+    font-size: 30px;
+}
+
+.explore-link {
+    color: #080100;
+    font-family: "Sans-Serif";
+    font-size: 22px;
+}
+
+.wwb-bg {
+    background-color: #f9fbfe;
+    background-size: cover;
+}
+
+.wwb_icon {
+    height: 100px;
+    width: 100px;
+}
+
+.wwb-name {
+    color: #bf8811;
+    font-family: "Bree";
+    font-size: 32px;
+}
+
+.wwb-caption {
+    color: #bfa643;
+    font-family: "Bree";
+    font-size: 20px;
+}
+
+.deve-sec {
+    background-color: #f9fbfe;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.sale {
+    border-radius: 15px;
+    height: 200px;
+
+}
+
+.payment-content {
+    color: #bfa643;
+    font-size: 20px;
+    font-family: "Bree";
+}
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.add-sec {
+    background-color: #525e54;
+    background-size: cover;
+}
+
+.logo-add {
+    height: 200px;
+}
+
+.name {
+    color: white;
+    font-family: "Sans-Serif";
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.add-des {
+    color: white;
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color:208, 178, 0;
+    font-size: 35px;
+}
+
